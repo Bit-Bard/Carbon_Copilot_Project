@@ -1,8 +1,8 @@
 # Carbon Copilot – Enterprise Carbon Intelligence Platform
 
-> An AI-powered sustainability intelligence system that transforms carbon accounting from reactive reporting to proactive optimization.
+> An Agentic-AI sustainability intelligence system that transforms carbon accounting from reactive reporting to proactive optimization.
 
-## 🎯 Executive Summary
+## Executive Summary
 
 **Carbon Copilot** is an enterprise-grade platform combining:
 - Automated emission measurement
@@ -14,7 +14,7 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Executive Summary](#executive-summary)
 - [Project Objective](#project-objective)
@@ -33,7 +33,7 @@
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 ### Mission Statement
 
@@ -68,7 +68,7 @@ Replace manual spreadsheets and generic calculators with intelligent, company-sp
 
 ---
 
-## ⚠️ Problem Statement
+## Problem Statement
 
 ### Current Industry Challenges
 
@@ -98,10 +98,10 @@ Organizations face systemic barriers in operationalizing sustainability:
 
 **Carbon Copilot** addresses these challenges through:
 
-✅ **Automated Data Integration** – Unified operational data capture  
-✅ **Continuous Tracking** – Daily emission monitoring and analysis  
-✅ **Context-Aware AI** – RAG-powered company-specific recommendations  
-✅ **Business Intelligence** – Enterprise-grade dashboards and reporting
+**Automated Data Integration** – Unified operational data capture  
+**Continuous Tracking** – Daily emission monitoring and analysis  
+**Context-Aware AI** – RAG-powered company-specific recommendations  
+**Business Intelligence** – Enterprise-grade dashboards and reporting
 
 ---
 
@@ -225,14 +225,14 @@ Step 6: VISUALIZATION
 
 **Advantages**:
 
-- ✅ Comprehensive system testing without production data
-- ✅ Demonstrates full platform capabilities in controlled environment
-- ✅ Customizable scenarios for different organizational profiles
-- ✅ Maintains data privacy during development
+- Comprehensive system testing without production data
+- Demonstrates full platform capabilities in controlled environment
+- Customizable scenarios for different organizational profiles
+- Maintains data privacy during development
 
 ---
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Technology Stack
 
@@ -328,45 +328,45 @@ carbon-copilot/
 
 **Instead of**: Scope 1/2/3 (Technical taxonomy)  
 **We Use**: 
-- 🚗 Fuel Emissions (Fleet & Equipment)
-- ⚡ Electricity Emissions (Facilities & Operations)  
-- 📦 Supply Chain Emissions (Logistics & Procurement)
+-  Fuel Emissions (Fleet & Equipment)
+-  Electricity Emissions (Facilities & Operations)  
+-  Supply Chain Emissions (Logistics & Procurement)
 
 **Why**: Aligns with business decision-making and operational responsibilities.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### 1. Automated Carbon Accounting
-- 📊 Daily emission calculations across operational categories
-- 📚 Standardized emission factor database (EPA, DEFRA, IPCC)
-- 📈 Historical trend analysis & year-over-year comparisons
+-  Daily emission calculations across operational categories
+-  Standardized emission factor database (EPA, DEFRA, IPCC)
+-  Historical trend analysis & year-over-year comparisons
 
 ### 2. Context-Aware Intelligence
-- 🤖 Company-specific recommendation engine powered by RAG
-- 🎯 Constraint-aware strategy generation
-- 📊 Impact quantification & prioritization
+-  Company-specific recommendation engine powered by RAG
+-  Constraint-aware strategy generation
+-  Impact quantification & prioritization
 
 ### 3. Enterprise Dashboard
-- ⚡ Real-time emission metrics & KPIs
-- 📉 Interactive time-series visualizations
-- 🔍 Category breakdowns & comparative analysis
-- 💼 Executive summaries & actionable insights
+-  Real-time emission metrics & KPIs
+-  Interactive time-series visualizations
+-  Category breakdowns & comparative analysis
+-  Executive summaries & actionable insights
 
 ### 4. Synthetic Data Generation (MCP)
-- 🔄 Realistic operational activity simulation
-- ⚙️ Configurable scenario modeling
-- 🔒 Privacy-preserving development environment
+-  Realistic operational activity simulation
+-  Configurable scenario modeling
+-  Privacy-preserving development environment
 
 ### 5. Zero Hardware Dependency
-- 💻 Software-only implementation
-- 🚫 No IoT sensors or monitoring equipment required
-- 🔌 API integration with existing systems
+-  Software-only implementation
+-  No IoT sensors or monitoring equipment required
+-  API integration with existing systems
 
 ---
 
-## 🚀 Installation and Deployment
+## Installation and Deployment
 
 ### Prerequisites
 
@@ -446,21 +446,19 @@ streamlit run dashboard_app.py
 
 | Platform | Use Case |
 |----------|----------|
-| **Docker/Docker Compose** | Containerized deployment |
 | **Streamlit Cloud** | Free tier hosting |
-| **Render** | Cloud deployment |
-| **AWS EC2** | Enterprise hosting |
+
 
 #### Production Considerations
 
-- 🗄️ **Database**: Migrate to PostgreSQL for multi-user scenarios
-- 🔐 **API Gateway**: Implement rate limiting & authentication
-- 📊 **Monitoring**: APM and error tracking
-- 🔒 **Security**: Environment variable management
+-  **Database**: Migrate to PostgreSQL for multi-user scenarios
+-  **API Gateway**: Implement rate limiting & authentication
+-  **Monitoring**: APM and error tracking
+-  **Security**: Environment variable management
 
 ---
 
-## 🌍 Project Impact
+## Project Impact
 
 ### Environmental Impact
 
@@ -500,7 +498,7 @@ streamlit run dashboard_app.py
 
 ---
 
-## 🔮 Future Development
+## Future Development
 
 ### 🤖 Automation & Scheduling
 - [ ] Automated daily data ingestion from production systems
@@ -544,7 +542,7 @@ streamlit run dashboard_app.py
 
 ---
 
-## 📚 Technical Documentation
+## Technical Documentation
 
 ### 🔗 API Reference
 
@@ -613,13 +611,13 @@ total_emissions = fuel_liters * emission_factor  # 268 kg CO₂
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Contact and Contribution
+## Contact and Contribution
 
 ### Developer
 **Name**: Bit-Bard  
@@ -643,13 +641,13 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This capstone project demonstrates the integration of:
 
-- ✅ Modern AI technologies (LLMs, RAG, vector databases)
-- ✅ Domain-specific engineering (carbon accounting, sustainability science)
-- ✅ Practical business intelligence systems
+-  Modern AI technologies (LLMs, RAG, vector databases)
+-  Domain-specific engineering (carbon accounting, sustainability science)
+-  Practical business intelligence systems
 
 **Key Achievement**: Synthesis of software engineering, data science, and environmental science principles applied to real-world organizational challenges.
 
@@ -657,7 +655,7 @@ This capstone project demonstrates the integration of:
 
 ---
 
-## 📖 Citation
+##  Citation
 
 If you use this project in research or academic work, please cite:
 
@@ -676,9 +674,9 @@ If you use this project in research or academic work, please cite:
 
 If you find this project valuable:
 
-- ⭐ Star this repository
-- 🐛 Report bugs or suggest features via issues
-- 🔗 Share with colleagues working on sustainability
+-  Star this repository
+-  Report bugs or suggest features via issues
+-  Share with colleagues working on sustainability
 
 ---
 
