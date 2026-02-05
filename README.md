@@ -2,6 +2,8 @@
 
 > An Agentic-AI sustainability intelligence system that transforms carbon accounting from reactive reporting to proactive optimization.
 
+![InterFace](Interface.png)
+
 ## Executive Summary
 
 **Carbon Copilot** is an enterprise-grade platform combining:
