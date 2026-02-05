@@ -85,20 +85,28 @@ def generate_advice():
 
     # ---------- prompt ----------
     prompt = f"""
-You are an expert sustainability consultant.
+You are a sustainability advisor.
 
-Company Knowledge:
+Use the company context and emission data below.
+
+Rules:
+- Maximum 6 bullet points
+- Each bullet ≤ 15 words
+- No explanations
+- No tables
+- No introductions or conclusions
+
+Company Context:
 {company_context}
 
-Daily Emission Metrics:
+Emission Data:
 {metrics_text}
 
-Tasks:
-1. Explain main emission sources.
-2. Suggest 3–5 practical reduction actions.
-3. Estimate possible % savings.
-4. Keep response short and actionable.
+Generate:
+- Key emission causes
+- Actionable reduction steps
 """
+
 
     # ---------- Gemini call ----------
     response = client.models.generate_content(
@@ -107,3 +115,4 @@ Tasks:
     )
 
     return response.text
+
