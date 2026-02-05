@@ -1,0 +1,3 @@
+Company owns 40 diesel trucks.
+Average mileage 6 km/litre.
+Routes are not optimized.
