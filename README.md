@@ -16,16 +16,18 @@
 
 ## 📑 Table of Contents
 
+- [Executive Summary](#executive-summary)
 - [Project Objective](#project-objective)
 - [Problem Statement](#problem-statement)
 - [System Architecture](#system-architecture)
 - [Technical Implementation](#technical-implementation)
 - [Key Features](#key-features)
-- [Installation & Deployment](#installation-and-deployment)
+- [Installation and Deployment](#installation-and-deployment)
 - [Project Impact](#project-impact)
 - [Future Development](#future-development)
 - [Technical Documentation](#technical-documentation)
-- [Contact & Contribution](#contact-and-contribution)
+- [License](#license)
+- [Contact and Contribution](#contact-and-contribution)
 
 ---
 
