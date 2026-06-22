@@ -671,7 +671,9 @@ If you use this project in research or academic work, please cite:
 ```
 
 ---
-
+## Special thanks to team members for their constant support throughout these project 
+<b> Ayush Singh</b>
+<b> Aditya Upadhyaya </b>
 ## 🌟 Show Your Support
 
 If you find this project valuable:
